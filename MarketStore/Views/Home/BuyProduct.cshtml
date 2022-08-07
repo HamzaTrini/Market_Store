@@ -1,0 +1,60 @@
+﻿@model Tuple<IEnumerable<MarketStore.Models.OrderFp>, IEnumerable<MarketStore.Models.ProductFp>, IEnumerable<MarketStore.Models.OrderProductFp>>;
+@{
+	Layout="~/Views/Shared/_Home.cshtml";
+}
+
+<style>
+.mar11 {
+    margin: auto;
+}
+
+</style>
+<!-- Title page -->
+	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('/Home/images/bg-01.jpg');">
+		<h2 class="ltext-105 cl0 txt-center">
+			Buy Product
+		</h2>
+	</section>	
+
+	<!-- Content page -->
+	<section class="bg0 p-t-104 p-b-116">
+		<div class="container">
+			<div class="flex-w flex-tr">
+				
+				@foreach(var item in Model.Item3){
+				<div class="size-210 bor10 p-lr-70 p-t-55 p-b-70 p-lr-15-lg w-full-md mar11">
+					<form asp-action="BuyProduct" asp-route-Price="@item.Product.Price">
+						<h4 class="mtext-105 cl2 txt-center p-b-30">
+							@item.Product.Name
+						</h4>
+						 <img src=@Url.Content("~/Home/images/" + item.Product.ImagePath) asp-append-version="true" 
+                         height="150px"  style="border-radius:15px; position:relative;
+                           left:108px;"/>
+						 <br/>
+								<span class="ltext-101 cl2 respon2">
+									Price
+								</span>
+							
+								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
+								$@item.Product.Price.00
+								</h2>
+							
+						
+						<div class="bor8 m-b-20 how-pos4-parent">
+							<input class="stext-111 cl2 plh3 size-116 p-l-62 p-r-30" type="number" name="TotalPrice" placeholder="Number Of Quantity ">
+							
+						</div>
+						
+						<button class="flex-c-m stext-101 cl0 size-121 bg3 bor1 hov-btn3 p-lr-15 trans-04 pointer">
+							ADD TO CART
+						</button>
+					</form>
+					<br/>
+					<br/>
+					  <a asp-action="Cart"  >Go To Cart</a> |
+					  @*asp-route-id="@item.Order.UserId"*@
+				</div>
+				}
+				</div>
+				</div>
+				</section>

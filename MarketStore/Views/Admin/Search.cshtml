@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MarketStore.Models.OrderProductFp>
+
+@{
+   
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<form asp-action="Search">
+    <input class="w3-input" type="date"  name="Sdate" />
+     <input class="w3-input" type="date" name="Edate" />
+     <button type="submit" > Search</button>
+
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            
+            
+            <th>
+               Order Name
+            </th>
+            <th>
+               Product Name
+            </th>
+            <th> Order Id</th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOrder)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.StoreName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOrder)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

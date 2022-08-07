@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MarketStore.Models.OrderProductFp>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOrder)
+            </th>
+            <th>
+               Order Name
+            </th>
+            <th>
+               Product Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOrder)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.StoreName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderProductId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderProductId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,151 @@
+﻿@model Tuple<IEnumerable<MarketStore.Models.CategoryFp>, IEnumerable<MarketStore.Models.HomeFp>, IEnumerable<MarketStore.Models.TestimonialFp>>;
+
+@{
+	Layout="~/Views/Shared/_Home.cshtml";
+}
+<style>
+body{
+    background-color:#eee;
+}
+
+.card{
+    
+    border:none;
+}
+
+.user-content p{
+    margin-top:5px;
+    font-size:12px;
+}
+
+
+.ratings i{
+    color:blue;
+}
+</style>
+
+<!-- Slider -->
+	<section class="section-slide">
+		
+		<div class="wrap-slick1">
+			<div class="slick1">
+				@foreach(var item in Model.Item2){
+				<div class="item-slick1" style="background-image: url('@Url.Content("/Home/images/" + item.ImagePath)');" >
+					<div class="container h-full">
+						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
+							<div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
+								<span class="ltext-101 cl2 respon2">
+									Women And Men
+								</span>
+							</div>
+								
+							<div class="layer-slick1 animated visible-false" data-appear="fadeInUp" data-delay="800">
+								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
+								@item.Discription
+								</h2>
+							</div>
+								
+							<div class="layer-slick1 animated visible-false" data-appear="zoomIn" data-delay="1600">
+								<a href="#AllCategory" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+									Shop Now
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				}
+					</div>
+					</div>
+				
+	<!-- Banner -->
+
+	<div class="sec-banner bg0 p-t-80 p-b-50">
+		<div class="container">
+			<div class="row">
+				@foreach(var item in Model.Item1){
+				<div class="col-md-6 col-xl-4 p-b-30 m-lr-auto" id="AllCategory">
+					<!-- Block1 -->
+					
+					<div class="block1 wrap-pic-w">
+						@*<img src=@Url.Content("~/Home/images/"+item.ImagePath) alt="IMG-BANNER" height="245px" />*@
+						 <img src=@Url.Content("~/Home/images/" + item.ImagePath) asp-append-version="true" 
+                         height="245px" />
+						
+						<a href="/Home/Store/@item.CatecoryId" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3" >
+							<div class="block1-txt-child1 flex-col-l">
+								<span class="block1-name ltext-102 trans-04 p-b-8">
+									@item.Name
+								</span>
+
+								<span class="block1-info stext-102 trans-04">
+									
+								</span>
+							</div>
+
+							<div class="block1-txt-child2 p-b-4 trans-05">
+								<div class="block1-link stext-101 cl0 trans-09">
+									Shop Now
+								</div>
+							</div>
+						</a>
+						
+					</div>
+				</div>
+				}
+				
+				
+			</div>
+				</div>
+				</div>
+				
+				
+				</section>
+		 	
+      <div class="container mt-5 mb-5">
+    
+    <div class="row g-2">
+		
+		@foreach(var item in Model.Item3)
+	    {
+					
+        <div class="col-md-4">
+            <div class="card p-3 text-center px-4">
+                
+
+				
+                <div class="user-image">
+                    
+            @*<img src="https://i.imgur.com/PKHvlRS.jpg" class="rounded-circle" width="80" />*@
+                    
+                     <img src=@Url.Content("~/Home/images/" + item.ImagePath) asp-append-version="true" 
+                         class="rounded-circle" width="80" />
+                </div>
+                
+                <div class="user-content">
+                    
+                    <h5 class="mb-0">@item.Name</h5>
+                    
+                    <p> @item.Discription</p>
+                    
+                </div>
+                
+                <div class="ratings">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+                    
+                </div>
+                
+            </div>
+			
+        </div>
+        }
+	   
+        </div>
+            
+        </div>
+        
+        
+   

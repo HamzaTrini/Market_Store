@@ -1,0 +1,494 @@
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.exe
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.deps.json
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.json
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.dev.json
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.pdb
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.Views.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.Views.pdb
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csproj.AssemblyReference.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfoInputs.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfo.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorAssemblyInfo.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorAssemblyInfo.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\staticwebassets\MarketStore.StaticWebAssets.Manifest.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.TagHelpers.input.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.TagHelpers.output.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorCoreGenerate.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Home.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorTargetAssemblyInfo.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorTargetAssemblyInfo.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.Views.pdb
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csproj.CopyComplete
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.pdb
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.genruntimeconfig.cache
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Admin.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Register\Login.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Testimonial.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Create.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Details.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Index.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Total_sale.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Store.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Search.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Profile1.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\BuyProduct.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Payment.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Hamza Trini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.exe
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.deps.json
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.json
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.dev.json
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.pdb
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.Views.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.Views.pdb
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csproj.AssemblyReference.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfoInputs.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfo.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csproj.CoreCompileInputs.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorAssemblyInfo.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorAssemblyInfo.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\staticwebassets\MarketStore.StaticWebAssets.Manifest.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.TagHelpers.input.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.TagHelpers.output.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorCoreGenerate.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\AboutFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Profile1.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Search.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Total_sale.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\CategoryFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ContactFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\HomeFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\BuyProduct.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Payment.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Store.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Testimonial.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\OrderProductFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\ProductFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Register\Login.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Admin.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Home.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\StoreProductFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\TestimonialFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Create.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Delete.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Details.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Edit.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\UserFps\Index.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorTargetAssemblyInfo.cache
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.RazorTargetAssemblyInfo.cs
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.Views.pdb
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csproj.CopyComplete
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.pdb
+C:\Users\HamzaTrini\Desktop\visual_studio\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.genruntimeconfig.cache
