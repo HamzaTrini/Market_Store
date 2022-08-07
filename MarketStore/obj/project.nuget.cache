@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ssEJLOVC/vtlriCyFcV7vKCfPpKJldX8rGxzV8sGXyRVOH+BmAYhSHjLUBLwjdz6aDEEOMjO6JL5889gJfEH3Q==",
+  "dgSpecHash": "2mpIyhpoBNOPqvu1lWbwhuAvwNZPmjsELwmnLwHhyU3r8TJeJNnKcuVzrefholISexMKn+ACoIVTU+wfSC7UvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HamzaTrini\\Desktop\\visual_studio\\MarketStore\\MarketStore\\MarketStore.csproj",
+  "projectFilePath": "C:\\Users\\HamzaTrini\\Source\\Repos\\Market_Store\\MarketStore\\MarketStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HamzaTrini\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
     "C:\\Users\\HamzaTrini\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

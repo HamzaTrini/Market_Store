@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HamzaTrini\\Desktop\\visual_studio\\MarketStore\\MarketStore\\MarketStore.csproj": {}
+    "C:\\Users\\HamzaTrini\\Source\\Repos\\Market_Store\\MarketStore\\MarketStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HamzaTrini\\Desktop\\visual_studio\\MarketStore\\MarketStore\\MarketStore.csproj": {
+    "C:\\Users\\HamzaTrini\\Source\\Repos\\Market_Store\\MarketStore\\MarketStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HamzaTrini\\Desktop\\visual_studio\\MarketStore\\MarketStore\\MarketStore.csproj",
+        "projectUniqueName": "C:\\Users\\HamzaTrini\\Source\\Repos\\Market_Store\\MarketStore\\MarketStore.csproj",
         "projectName": "MarketStore",
-        "projectPath": "C:\\Users\\HamzaTrini\\Desktop\\visual_studio\\MarketStore\\MarketStore\\MarketStore.csproj",
+        "projectPath": "C:\\Users\\HamzaTrini\\Source\\Repos\\Market_Store\\MarketStore\\MarketStore.csproj",
         "packagesPath": "C:\\Users\\HamzaTrini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HamzaTrini\\Desktop\\visual_studio\\MarketStore\\MarketStore\\obj\\",
+        "outputPath": "C:\\Users\\HamzaTrini\\Source\\Repos\\Market_Store\\MarketStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HamzaTrini\\AppData\\Roaming\\NuGet\\NuGet.Config",
