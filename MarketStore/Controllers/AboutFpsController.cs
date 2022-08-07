@@ -27,7 +27,7 @@ namespace MarketStore.Controllers
         }
 
 
-        // GET: AboutFps
+        // GET: AboutFps Hit hup
         public async Task<IActionResult> Index()
         {
             int id = (int)HttpContext.Session.GetInt32("userid");
